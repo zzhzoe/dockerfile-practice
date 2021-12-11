@@ -1,5 +1,5 @@
 # Docker file for basic machine learning projects
-# author: Zihan Zhou 
+
 
 # Docker file for individual assigment 4
 FROM jupyter/scipy-notebook
